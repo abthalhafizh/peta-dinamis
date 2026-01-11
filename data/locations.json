@@ -1,0 +1,119 @@
+[
+  {
+    "id": 15,
+    "name": "SMK Pemuda Krian",
+    "description": "",
+    "category": "pendidikan",
+    "latitude": -7.3995496975347965,
+    "longitude": 112.5918844342232,
+    "createdAt": 1768126112
+  },
+  {
+    "id": 14,
+    "name": "Masjid Darul Muhsinin",
+    "description": "",
+    "category": "pendidikan",
+    "latitude": -7.403504909535332,
+    "longitude": 112.59012758731842,
+    "createdAt": 1768126050
+  },
+  {
+    "id": 13,
+    "name": "Sekolah Alam Al Izzah",
+    "description": "",
+    "category": "pendidikan",
+    "latitude": -7.402573961684657,
+    "longitude": 112.59404361248018,
+    "createdAt": 1768126001
+  },
+  {
+    "id": 12,
+    "name": "Masjid Miftachul jannah",
+    "description": "",
+    "category": "ibadah",
+    "latitude": -7.4006056654734715,
+    "longitude": 112.59182006120685,
+    "createdAt": 1768125961
+  },
+  {
+    "id": 11,
+    "name": "Kelurahan kemasan",
+    "description": "",
+    "category": "pemerintahan",
+    "latitude": -7.40031574001912,
+    "longitude": 112.5917235016823,
+    "createdAt": 1768125901
+  },
+  {
+    "id": 10,
+    "name": "Samsat  Krian",
+    "description": "",
+    "category": "pemerintahan",
+    "latitude": -7.401704188631248,
+    "longitude": 112.58953750133516,
+    "createdAt": 1768125884
+  },
+  {
+    "id": 9,
+    "name": "Masjid Al Falah",
+    "description": "",
+    "category": "ibadah",
+    "latitude": -7.402206901706176,
+    "longitude": 112.58757948875429,
+    "createdAt": 1768125787
+  },
+  {
+    "id": 8,
+    "name": "MI Al Ahmad",
+    "description": "",
+    "category": "pendidikan",
+    "latitude": -7.402459587956016,
+    "longitude": 112.5878369808197,
+    "createdAt": 1768125755
+  },
+  {
+    "id": 7,
+    "name": "SDN Kemasan",
+    "description": "",
+    "category": "pendidikan",
+    "latitude": -7.401986133600981,
+    "longitude": 112.58894205093385,
+    "createdAt": 1768125718
+  },
+  {
+    "id": 6,
+    "name": "rumahku",
+    "description": "",
+    "category": "rumahku",
+    "latitude": -7.399440642767427,
+    "longitude": 112.59628862142564,
+    "createdAt": 1768125654
+  },
+  {
+    "id": 5,
+    "name": "Masjid Baitussalam",
+    "description": "",
+    "category": "ibadah",
+    "latitude": -7.39857884316965,
+    "longitude": 112.5948429107666,
+    "createdAt": 1768125577
+  },
+  {
+    "id": 4,
+    "name": "SLB Aisyiyah krian",
+    "description": "",
+    "category": "pendidikan",
+    "latitude": -7.399637473303609,
+    "longitude": 112.59385854005815,
+    "createdAt": 1768125523
+  },
+  {
+    "id": 3,
+    "name": "balai RW semaji",
+    "description": "",
+    "category": "pemerintahan",
+    "latitude": -7.39941936378527,
+    "longitude": 112.59439766407014,
+    "createdAt": 1768125501
+  }
+]
