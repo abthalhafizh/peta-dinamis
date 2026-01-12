@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Peta Dinamis - Bulusidokare",
-  description: "Peta Dinamis - Bulusidokare",
+  title: "Peta Dinamis - kemasan",
+  description: "Peta Dinamis - kemasan",
 };
 
 export default function RootLayout({
